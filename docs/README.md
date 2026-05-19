@@ -4,7 +4,9 @@ Welcome to the OctoAcme Project Management documentation. This folder is the cen
 
 ## Overview
 
-OctoAcme follows a lightweight but structured lifecycle that moves from **initiation** through **planning**, **execution**, **release**, and **retrospective improvement**. Work begins by validating the business need, defining success metrics, identifying stakeholders, and producing a one-pager with goals, risks, rough milestones, and resource needs. Once approved, the team shifts into planning by holding a kickoff, building a prioritized backlog, defining acceptance criteria and a Definition of Done, estimating work, and mapping dependencies and release plans.
+OctoAcme follows a lightweight but structured lifecycle that moves from **initiation** through **planning**, **execution**, **release**, and **retrospective improvement**.
+
+Work begins by validating the business need, defining success metrics, identifying stakeholders, and producing a one-pager with goals, risks, rough milestones, and resource needs. Once approved, the team shifts into planning by holding a kickoff, building a prioritized backlog, defining acceptance criteria and a Definition of Done, estimating work, and mapping dependencies and release plans.
 
 The documentation defines clear roles across cross-functional delivery. **Project Managers** coordinate schedules, risks, dependencies, meetings, status reporting, and stakeholder communication. **Product Managers** own the problem statement, success metrics, roadmap priorities, and trade-off decisions. **Developers** implement features, contribute to estimation and design, maintain tests and documentation, and surface technical risks. Across all roles, OctoAcme emphasizes customer value, iterative delivery, data-informed decisions, clear ownership, and psychological safety.
 
