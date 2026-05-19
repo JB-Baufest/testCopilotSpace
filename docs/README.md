@@ -31,5 +31,9 @@ After sprints, releases, or incidents, teams capture what worked, what to improv
 See: [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 
 ## Roles/personas
-The process is supported by defined personas (Developers, Product Managers, Project Managers) with clear responsibilities, goals, and communication patterns.  
+The process is supported by defined personas (Developers, Product Managers, Project Managers, Scrum Masters, UX Designers, Data Analysts, Stakeholder Proxy) with clear responsibilities, goals, and communication patterns.  
 See: [Roles and Personas](./octoacme-roles-and-personas.md)
+
+## Role collaboration & accountability
+Use this lightweight guide to clarify cross-role ownership, collaboration cadence, and handoff/review expectations.  
+See: [Role Collaboration & Accountability Guide](./octoacme-role-collaboration-guide.md)
